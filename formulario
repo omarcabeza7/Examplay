@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>formulario</title>
+        <link rel="icon" href="https://www.shutterstock.com/image-vector/pi-314-mathematical-constant-sign-260nw-497153824.jpg">
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="containerprincipal">
+        <div class="form-group">
+            <input id="Usuario" type="text" class="form-control" name="Username" placeholder="usuario">
+            <input id="Contraseña" type="password" class="form-control" name="Username" placeholder="Contrasena">
+        
+         <a href="mapa.html">
+            <button id="button" class="boton">Enviar</button>
+         </a>
+
+        </div>
+    </div>
+    </body>
+</html>
